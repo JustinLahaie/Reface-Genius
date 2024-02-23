@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "apple_iphone_12_pro_photos_8c9cd6ffa9b02044a7a3327bc82c5649.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
